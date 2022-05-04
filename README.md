@@ -3,18 +3,23 @@ A method to calculate the width of a binary image as described in: https://www.s
 
 The method identifies a group of points that are close to the orthogonal projection vector and selects a pair of points that is the shortest as shown below:<br>
 <p align='center'>
-  ![comparison of measurements](/comparison_measurement.png)
+  ![comparison of measurements](/images/comparison_measurement.png)
  <p>
    
 The benefits of the hybrid method are as follows:
-   (1) Allows the user to tune the strength of the orthogonal projection and the shortest method
-   (2) Prevents overestimation effects by the orthogonal projection method when cracks are curved
-   (3) More distinct crack width measurements than the shortest method
-   (4) More robust to binary images that have unparallel boundaries
+   <ul>
+     <li>Allows the user to tune the strength of the orthogonal projection and the shortest method</li>
+     <li>Prevents overestimation effects by the orthogonal projection method when cracks are curved</li>
+     <li>More distinct crack width measurements than the shortest method</li>
+     <li>More robust to binary images that have unparallel boundaries</li>
+   </ul>
    
 How to use:
-   (1) Input binary image
-   (2) Tune the pruning strength
-   (3) Tune the balancing coefficient
+   <ol>
+    <li>Input binary image</li>
+    <li>Tune the pruning strength</li>
+    <li>Tune the balancing coefficient</li>
+   </ol>
+
 
    
