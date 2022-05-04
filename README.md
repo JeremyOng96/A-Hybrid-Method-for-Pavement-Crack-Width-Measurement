@@ -2,10 +2,10 @@
 A method to calculate the width of a binary image as described in: https://www.sciencedirect.com/science/article/abs/pii/S026322412200505X#:~:text=The%20hybrid%20method%20obtains%20the,close%20to%20the%20orthogonal%20direction.
 
 The method identifies a group of points that are close to the orthogonal projection vector and selects a pair of points that is the shortest as shown below:<br>
-<p align='center'>
-  ![comparison of measurements](/images/comparison_measurement.png)
- <p>
-   
+<p align="center">
+  <img src= "https://github.com/JeremyOng96/A-Hybrid-Method-for-Pavement-Crack-Width-Measurement/blob/master/images/comparison_measurement.png"
+</p>
+
 The benefits of the hybrid method are as follows:
    <ul>
      <li>Allows the user to tune the strength of the orthogonal projection and the shortest method</li>
