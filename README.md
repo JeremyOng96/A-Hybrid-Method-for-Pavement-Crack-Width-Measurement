@@ -1,7 +1,7 @@
 # A-Hybrid-Method-for-Pavement-Crack-Width-Measurement
 A method to calculate the width of a binary image as described in: https://www.sciencedirect.com/science/article/abs/pii/S026322412200505X#:~:text=The%20hybrid%20method%20obtains%20the,close%20to%20the%20orthogonal%20direction.
 
-The method identifies a group of points that are close to the orthogonal projection vector and selects a pair of points that is the shortest as shown below:<br>
+The method identifies a group of points that are close to the orthogonal projection vector and selects a pair of points that is the shortest as shown in the figure below. The green lines are general measurements while the red line indicates the maximum width. <br>
 
 ![comparison of methods](/images/comparison_measurement.png) <br>
 
