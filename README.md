@@ -1,9 +1,10 @@
 # A-Hybrid-Method-for-Pavement-Crack-Width-Measurement
-A method to calculate the width of a binary image as described in: https://www.sciencedirect.com/science/article/abs/pii/S026322412200505X#:~:text=The%20hybrid%20method%20obtains%20the,close%20to%20the%20orthogonal%20direction.
+This repository contains the hybrid method for pavement crack width measurement. The details can be found here: https://www.sciencedirect.com/science/article/abs/pii/S026322412200505X#:~:text=The%20hybrid%20method%20obtains%20the,close%20to%20the%20orthogonal%20direction.
 
-The method identifies a group of points that are close to the orthogonal projection vector and selects a pair of points that is the shortest as shown in the figure below. The green lines are general measurements while the red line indicates the maximum width. <br>
-
-![comparison of methods](/images/comparison_measurement.png) <br>
+Measurement samples of our method
+:-------------------------:|:-------------------------:|:-------------------------:
+<img width="407" alt="image" src="https://github.com/JeremyOng96/A-Hybrid-Method-for-Pavement-Crack-Width-Measurement/assets/17587452/7e8f9bf5-ad8a-41dc-bedc-6a610af7eab8"> | <img width="407" alt="image" src="https://github.com/JeremyOng96/A-Hybrid-Method-for-Pavement-Crack-Width-Measurement/assets/17587452/8357551d-6cec-48a2-b220-00268baf11fd"> | <img width="407" alt="image" src="https://github.com/JeremyOng96/A-Hybrid-Method-for-Pavement-Crack-Width-Measurement/assets/17587452/4865063d-824e-4e14-b87b-5d5e9c8705ed">
+<img width="407" alt="image" src="https://github.com/JeremyOng96/A-Hybrid-Method-for-Pavement-Crack-Width-Measurement/assets/17587452/565b0957-6812-43e8-ae98-000adbdee0f0"> | <img width="407" alt="image" src="https://github.com/JeremyOng96/A-Hybrid-Method-for-Pavement-Crack-Width-Measurement/assets/17587452/4cf0d714-0a63-4516-bd21-ffb51852e4c2"> | <img width="407" alt="image" src="https://github.com/JeremyOng96/A-Hybrid-Method-for-Pavement-Crack-Width-Measurement/assets/17587452/eef5c8b9-c5b5-4a53-bea7-8a1a3440e94e">
 
 The benefits of the hybrid method are as follows:
    <ul>
