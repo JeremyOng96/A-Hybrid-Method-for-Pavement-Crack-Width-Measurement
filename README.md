@@ -5,11 +5,8 @@ Measurement samples of our method <br>
 Original image       |  Binary image    |  Measurement
 :-------------------------:|:-------------------------:|:-------------------------:
 ![33](https://github.com/JeremyOng96/A-Hybrid-Method-for-Pavement-Crack-Width-Measurement/assets/17587452/4af87d33-466d-4a62-a9cb-a7a621667f5f) | ![33](https://github.com/JeremyOng96/A-Hybrid-Method-for-Pavement-Crack-Width-Measurement/assets/17587452/0784fb34-24db-41e5-85fc-1683b24050e7) | ![image](https://github.com/JeremyOng96/A-Hybrid-Method-for-Pavement-Crack-Width-Measurement/assets/17587452/6b7f7c14-5d8f-4a25-92d0-fc130bf15156)
+![338](https://github.com/JeremyOng96/A-Hybrid-Method-for-Pavement-Crack-Width-Measurement/assets/17587452/6f7e5170-a04f-4abc-8169-9c043b3c927c) | ![338](https://github.com/JeremyOng96/A-Hybrid-Method-for-Pavement-Crack-Width-Measurement/assets/17587452/4855e1cf-06af-4314-878b-2fb7eb79d31e) | ![image](https://github.com/JeremyOng96/A-Hybrid-Method-for-Pavement-Crack-Width-Measurement/assets/17587452/5c58773b-1557-4efe-b378-5dcbb5ed24df)
 ![34](https://github.com/JeremyOng96/A-Hybrid-Method-for-Pavement-Crack-Width-Measurement/assets/17587452/203c606f-5147-42ff-9fb3-5e1b5dcbfda2) |![34](https://github.com/JeremyOng96/A-Hybrid-Method-for-Pavement-Crack-Width-Measurement/assets/17587452/c07f8ac5-e602-408c-a975-e19bbfa1a7f7) | ![image](https://github.com/JeremyOng96/A-Hybrid-Method-for-Pavement-Crack-Width-Measurement/assets/17587452/06e8f857-413b-49a9-bbbd-0e5f0a6ca860)
-![31](https://github.com/JeremyOng96/A-Hybrid-Method-for-Pavement-Crack-Width-Measurement/assets/17587452/23be51fb-0098-4dc5-a93f-543fad2d2372) | ![31](https://github.com/JeremyOng96/A-Hybrid-Method-for-Pavement-Crack-Width-Measurement/assets/17587452/3deef997-ce26-4221-99cc-0dd2351b31cf) | ![image](https://github.com/JeremyOng96/A-Hybrid-Method-for-Pavement-Crack-Width-Measurement/assets/17587452/9bc7a008-cce9-4e35-9917-24c91fbf7493)
-
-
-
 
 The benefits of the hybrid method are as follows:
    <ul>
